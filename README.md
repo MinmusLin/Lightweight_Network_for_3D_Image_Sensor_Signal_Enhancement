@@ -13,6 +13,11 @@ A project of lightweight method for 3D image sensor signal enhancement network.
 > Relevant project
 > * 同济大学2024年大学生创新创业训练计划项目
 
+## 项目组成
+
+* [Project Plan Application](20231213_Project_Plan_Application.docx)
+项目计划申请书
+
 ## 文档更新日期
 
-2024年1月11日
+2024年1月22日
