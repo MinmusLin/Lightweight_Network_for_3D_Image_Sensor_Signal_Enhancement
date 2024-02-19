@@ -15,6 +15,9 @@ A project of lightweight method for 3D image sensor signal enhancement network.
 * [Project Plan Application](20231213_Project_Plan_Application.docx)
 项目计划申请书
 
+* [References](References)
+参考文献
+
 ## 文档更新日期
 
-2024年2月17日
+2024年2月19日
