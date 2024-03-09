@@ -10,6 +10,9 @@ A project of lightweight method for 3D image sensor signal enhancement network.
 
 三维图像传感器信号增强网络的轻量化方法项目。
 
+> ***Relevant project***
+> * 同济大学2024年大学生创新创业训练计划项目
+
 ## 项目组成
 
 * [Project Plan Application](20231213_Project_Plan_Application.pdf)
@@ -20,4 +23,4 @@ A project of lightweight method for 3D image sensor signal enhancement network.
 
 ## 文档更新日期
 
-2024年3月4日
+2024年3月10日
