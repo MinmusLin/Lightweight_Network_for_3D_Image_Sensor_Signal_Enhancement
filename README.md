@@ -6,9 +6,9 @@ Lightweight_Network_for_3D_Image_Sensor_Signal_Enhancement
 
 ## 项目简介
 
-A project of lightweight network for 3D image sensor signal enhancement.
+Lightweight network for 3D image sensor signal enhancement.
 
-三维图像传感器信号增强网络的轻量化方法项目。
+三维图像传感器信号增强网络的轻量化方法。
 
 > ***Relevant project***
 > * 同济大学2024年大学生创新创业训练计划项目
@@ -29,4 +29,4 @@ A project of lightweight network for 3D image sensor signal enhancement.
 
 ## 文档更新日期
 
-2024年4月27日
+2025年2月27日
