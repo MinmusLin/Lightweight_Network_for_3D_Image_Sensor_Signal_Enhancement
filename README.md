@@ -24,9 +24,27 @@ Lightweight network for 3D image sensor signal enhancement.
 * [Upgrade Defense](20240430_Upgrade_Defense.pptx)
 项目上创国创升级答辩
 
-* [References](References)
-参考文献
+* [First Quarter Report](20240906_First_Quarter_Report.pdf)
+项目第一季度报告
+
+* [Second Quarter Report](20241023_Second_Quarter_Report.pdf)
+项目第二季度报告
+
+* [Mid-term Report](20241105_Mid-term_Report.pdf)
+项目中期检查报告
+
+* [Third Quarter Report](20250227_Third_Quarter_Report.pdf)
+项目第三季度报告
+
+* [Fourth Quarter Report](20250309_Fourth_Quarter_Report.pdf)
+项目第四季度报告
+
+* [Final Report](_Final_Report.pdf)
+项目结题报告
+
+* [Final Defense](_Final_Defense.pptx)
+项目结题答辩
 
 ## 文档更新日期
 
-2025年2月27日
+2025年3月9日
