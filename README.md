@@ -15,6 +15,12 @@ Lightweight network for 3D image sensor signal enhancement.
 
 ## 项目组成
 
+* [References](References)
+参考文献
+
+* [Results](Results)
+模型预测结果
+
 * [Project Plan Application](20231213_Project_Plan_Application.pdf)
 项目计划申请书
 
