@@ -15,9 +15,6 @@ Lightweight network for 3D image sensor signal enhancement.
 
 ## 项目组成
 
-* [References](References)
-参考文献
-
 * [Results](Results)
 模型预测结果
 
@@ -51,6 +48,9 @@ Lightweight network for 3D image sensor signal enhancement.
 * [Final Defense](20250325_Final_Defense.pptx)
 项目结题答辩
 
+* [Certificate](Certificate.pdf)
+国家级大学生创新创业训练计划结题证书
+
 ## 文档更新日期
 
-2025年3月25日
+2025年5月6日
